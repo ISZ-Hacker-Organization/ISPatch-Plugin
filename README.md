@@ -1,2 +1,7 @@
 # ISPatch-Plugin
-A simple ISZ-ModMenu Plugin for fully patching Ice Station Z on PC. Inspired by Cracko298's ISZ-2021 Patcher.
+- An upcoming Plugin for ISZ-ModMenu, that will remove the need for "Injecting" the ISZ-ModMenu.
+
+
+# Installing:
+- Download the [plugin.py]() Plugin. *Not Avaliable Yet.
+- In the directory of the ISZ-ModMenu, place the plugin in the directory: **_dat > MMplugins**
